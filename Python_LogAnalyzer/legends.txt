@@ -1,0 +1,2 @@
+gcc_decoupled
+namd_LAMOST

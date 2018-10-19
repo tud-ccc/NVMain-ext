@@ -1,0 +1,11 @@
+'Y_axis,X-axis
+RB Hits,B1
+RB Misses,B2
+RB Hit Rate,B3
+RB Miss Rate,B4
+DRC Hits,B5
+DRC Misses,B6
+DRC Hit Rate,B7
+DRC Miss Rate,B8
+Tag Cache Hits,B9
+Tag Cache Misses,B10

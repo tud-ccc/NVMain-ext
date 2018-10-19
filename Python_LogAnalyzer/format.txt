@@ -1,0 +1,7 @@
+'colors, edgecolor, hatch
+#ffffff,#cfcecf,/////
+#81BEF7,#045FB4, 
+#D8D8D8,#120A2A, 
+#424242,#120A2A,oo
+#FFFFFF,#120A2A,.....
+#6f6d6d,#504d4d, 

@@ -1,0 +1,18 @@
+=============================================================================================================================================================
+=  Formal-Legend	Graph		Scaled		Ref. File	Avg/H.M		Min	Max	Default	   Y-Axis Mark	Rotation	
+=============================================================================================================================================================
+rb_hits                   1               Y              1                 N             0      5          Y		None	0		
+rb_miss                   1               Y              1                 Y             0      5          Y   		None	0
+rb_hitrate                1               Y              1                 Y             0      2          N		%	0
+drc_hits                  1               Y              1                 Y             0      5          Y		None	0
+drc_miss                  1               Y              1                 Y             0      5          Y		None	0
+drc_hitrate               1               Y              1                 Y             0      2          N		%	0
+drc_missrate              1               Y              1                 Y             0      10         N		%	0
+tagCacheHits              1               Y              1                 Y             0      100        N		None	0
+tagCacheMisses            1               Y              1                 Y             0      100        N		None	0
+tagcache_hitrate          1               Y              1                 Y             0      100        N		None	0
+src_hits                  1               Y              1                 Y             0      100        N		None	0
+src_misses                1               Y              1                 Y             0      100        N		None	0
+src_hitrate               1               Y              1                 Y             0      100        N		None	0
+=============================================================================================================================================================
+! rb_hits/(rb_hits+rb_miss)
